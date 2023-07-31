@@ -11,4 +11,3 @@ void main()
     printf("commit 5");
     printf("commit 6");
 }
-}
